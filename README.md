@@ -215,13 +215,7 @@ Recommended: virtual environment for dependencies
 
 # Diagrams
 
-
 For Hardware:<img width="1024" height="1536" alt="ChatGPT Image Aug 9, 2025, 06_46_35 AM" src="https://github.com/user-attachments/assets/dfce6f4f-8ae2-4fa8-a190-74eec8561ec5" />
-
-
-# Schematic & Circuit
-![Circuit]<img width="1024" height="1536" alt="ChatGPT Image Aug 9, 2025, 06_46_35 AM" src="https://github.com/user-attachments/assets/326b5edf-c695-43ef-9f4a-f4ac75847ce5" />
-we worked according to this schema diagram
 
 
 
@@ -234,8 +228,8 @@ https://drive.google.com/file/d/1dbXEnfV25tfPCpuP94zL0nzKU5nzi7nJ/view?usp=drive
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [malavika]: [coding]
-- [julie]: [coding]
+- malavika: coding
+- julie: coding
 - 
 
 ---
